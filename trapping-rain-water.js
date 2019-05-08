@@ -12,7 +12,13 @@ var trap = function(height) {
             continue;
         }
         
-        let nextTallest = height.findIndex((h, hi)=>(h>height[i] && hi > i));
+        // let nextTallest = height.findIndex((h, hi)=>(h>height[i] && hi > i));
+          let nextTallest = height
+                      .slice(i, height.length)
+                      .findIndex(h=>(h>height[i]));
+        if (nextTallest >=0 ) {
+            nextTallest += i;
+        }
         if (nextTallest < 0) {
             let max = Math.max(...(height.slice(i+1, height.length)));
             nextTallest = i+1 + height.slice(i+1, height.length).indexOf(max);
