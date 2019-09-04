@@ -71,3 +71,29 @@ Problem: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-i
 
 Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/construct-binary-tree-from-preorder-and-inorder-traversal.js
 
+## Reverse Words in a String (No. 151) - MEDIUM
+
+Problem: https://leetcode.com/problems/reverse-words-in-a-string/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/reverse-words-in-a-string.js
+
+## Compare Version Numbers (No. 165) - MEDIUM
+
+Problem: https://leetcode.com/problems/compare-version-numbers/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/compare-version-numbers.js
+
+## Binary Tree Tilt (No. 563) - EASY
+
+Problem: https://leetcode.com/problems/binary-tree-tilt/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/binary-tree-tilt.js
+
+## Merge Two Binary Trees (No. 617) - EASY
+
+Problem: https://leetcode.com/problems/merge-two-binary-trees/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/merge-two-binary-trees.js
+
+
+
