@@ -65,5 +65,9 @@ Problem: https://leetcode.com/problems/powx-n/
 
 Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/powx-n.js
 
+## Construct Binary Tree from Preorder and Inorder Traversal (No. 105) - MEDIUM
 
+Problem: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal.js/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/construct-binary-tree-from-preorder-and-inorder-traversal.js
 
