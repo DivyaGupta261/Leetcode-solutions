@@ -95,5 +95,32 @@ Problem: https://leetcode.com/problems/merge-two-binary-trees/
 
 Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/merge-two-binary-trees.js
 
+## Jewels and Stones (No. 771) - EASY
+
+Problem: https://leetcode.com/problems/jewels-and-stones/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/jewels-and-stones.js
+
+## Second Minimum Node in a Binary Tree (No. 771) - EASY
+
+Problem: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/second-minimum-node-in-a-binary-tree.js
+
+## Max Increase to Keep City Skyline (No. 807) - MEDIUM
+
+Problem: https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/max-increase-to-keep-city-skyline.js
+
+## Univalued Binary Tree (No. 965) - EASY
+
+Problem: https://leetcode.com/problems/univalued-binary-tree/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/univalued-binary-tree.js
+
+
+
+
 
 
