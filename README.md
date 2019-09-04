@@ -2,7 +2,7 @@
 
 Solutions to problems that I solve in leetcode.com
 
-## Trapping Rain Water Problem (No. 42)
+## Trapping Rain Water Problem (No. 42) - HARD
 
 Problem: https://leetcode.com/problems/trapping-rain-water/
 
