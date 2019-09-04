@@ -10,6 +10,12 @@ Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/trapping-r
 
 Explanation: https://medium.com/@DivyaGupta26/solving-trapping-rain-water-problem-leetcode-dbce0303fe9b
 
+## Jump Game II (No. 45) - HARD
+
+Problem: https://leetcode.com/problems/jump-game-ii/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/jump-game-ii.js
+
 
 ## Two Sum (No. 1) - EASY
 
@@ -46,7 +52,18 @@ Problem: https://leetcode.com/problems/container-with-most-water/
 Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/container-with-most-water.js
 
 
+## Integer to Roman (No. 12) - MEDIUM
 
+Problem: https://leetcode.com/problems/integer-to-roman/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/integer-to-roman.js
+
+
+## Pow(x,n) (No. 50) - MEDIUM
+
+Problem: https://leetcode.com/problems/powx-n/
+
+Code: https://github.com/DivyaGupta261/Leetcode-solutions/blob/master/powx-n.js
 
 
 
